@@ -1,0 +1,3 @@
+[submodule "projectsub"]
+	path = projectsub
+	url = git@github.com:timcashin/projectsub.git
